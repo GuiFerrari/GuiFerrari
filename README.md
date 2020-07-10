@@ -2,6 +2,12 @@
 	Guilherme Ferrari 👨‍💻
 </h1>
 
+<p align="center">
+ <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-brightgreen">
+ <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-blue">
+ <img alt="ReactJS" src="https://img.shields.io/badge/-React%20Native-blueviolet">
+</p>
+
 <!--
 **GuiFerrari/GuiFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
