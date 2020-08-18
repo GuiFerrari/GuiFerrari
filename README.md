@@ -8,6 +8,9 @@
  <img alt="ReactJS" src="https://img.shields.io/badge/-React%20Native-blueviolet">
 </p>
 
+<p>Técnico em desenvolvimento web e mobile pela Etec Philadelpho Gouvêa Netto.
+Atualmente desenvolvedor das tecnologias NodeJS, ReactJS, React Native. Buscando sempre evoluir nas melhores tecnologias do mercado atualmente. </p>
+
 <!--
 **GuiFerrari/GuiFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
