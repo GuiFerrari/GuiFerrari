@@ -11,6 +11,7 @@
 <p>Técnico em desenvolvimento web e mobile pela Etec Philadelpho Gouvêa Netto.
 Atualmente desenvolvedor das tecnologias NodeJS, ReactJS, React Native. Buscando sempre evoluir nas melhores tecnologias do mercado atualmente. </p>
 
+## 📈 Github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guiferrari&show_icons=true&theme=radical)](https://github.com/lucashco/github-readme-stats)
 
 
